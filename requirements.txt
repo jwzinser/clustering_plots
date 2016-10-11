@@ -1,0 +1,9 @@
+pandas
+numpy
+fiona
+descartes
+matplotlib
+pika
+scipy
+sklearn
+seaborn
